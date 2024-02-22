@@ -8,3 +8,5 @@ Our half-day workshop will host invited speakers and contributed content in the 
 - Submission: Coming Soon!
 - Deadline: March 15th (AoE)
 - Contact: tta-cvpr2024@googlegroups.com
+
+Website: https://tta-cvpr2024.github.io 
