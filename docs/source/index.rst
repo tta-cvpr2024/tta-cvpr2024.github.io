@@ -79,7 +79,6 @@ Contact
 
 Please contact ``tta-cvpr2024@googlegroups.com`` if you have any questions.
 
-
 .. toctree::
    :maxdepth: 2
    :hidden:
