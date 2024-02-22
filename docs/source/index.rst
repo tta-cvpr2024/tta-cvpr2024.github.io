@@ -25,7 +25,7 @@ We have invited speakers and we will invite contributions on the topic of test-t
 - **comparative and contrastive studies** of nearby methods, benchmarks, or tasks across changes in inputs (adaptation) and changes in outputs (continual learning) for mutual understanding and cross-pollination;
 - **adapting large-scale/foundation models** (LLMs, VLMs, etc.) to specialized or personalized domains.
 
-   
+
 Submissions
 -----------
 
@@ -49,7 +49,7 @@ Invited Speakers
 ----------------
 
 .. note::
-   
+
    The full list of speakers is currently being finalized.
 
 
@@ -69,7 +69,7 @@ Program Committee
 -----------------
 
 .. note::
-   
+
    The final program committee will be listed here closer to the submission deadline.
 
 Thanks a lot to the Program Committee for reviewing and contributing to shaping the program of the workshop!
@@ -91,4 +91,4 @@ Please contact ``tta-cvpr2024@googlegroups.com`` if you have any questions.
       :title: 1st Workshop on Test-Time Adaptation: Model, Adapt Thyself! (MAT)
 
       :description lang=en:
-         Our workshop at CVPR 2024 aims to unite researchers on adaptation and robustness to push the boundaries between training and testing. 
+         Our workshop at CVPR 2024 aims to unite researchers on adaptation and robustness to push the boundaries between training and testing.
